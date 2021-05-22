@@ -1,0 +1,6 @@
+@Library('devops') _
+
+
+nodejs("payment")
+//sonar
+//rrrrrrrrr
